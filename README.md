@@ -4,8 +4,8 @@
 sudo apt update
 sudo apt-get install git
 git --version
-git config --global user.name "Alan  Chan"
-git config --global user.email "alloppi@gmail.com
+git config --global user.name "xxx"
+git config --global user.email "xxx@example.com"
 ```
 
 ## Working with GitGub projects
