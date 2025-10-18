@@ -8,8 +8,8 @@ git config --global user.name "xxx"
 git config --global user.email "xxx@example.com"
 ```
 
-## Working with GitGub projects
-### Create the repository, clone it to Ubuntu
+## Working with GitHub projects
+### Create the repository, clone it to Ubuntu working directory
 1. Create a new repository in GitHub
 2. Clone local copy of the repository
 ```
